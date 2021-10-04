@@ -1,0 +1,15 @@
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\BussinesLogic.deps.json
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\BussinesLogic.dll
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\ref\BussinesLogic.dll
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\BussinesLogic.pdb
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\Core.dll
+C:\NETMarket\NetMarket\BussinesLogic\bin\Debug\net5.0\Core.pdb
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.AssemblyInfo.cs
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.csproj.CopyComplete
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.dll
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\ref\BussinesLogic.dll
+C:\NETMarket\NetMarket\BussinesLogic\obj\Debug\net5.0\BussinesLogic.pdb
